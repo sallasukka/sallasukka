@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi guys!
+
+I am Salla and in this README, you can learn a bit about me and my interests, in addition to my projects I have been working on. Welcome!
+
+At the moment I...
+- am studying software development
+- am interested in cyber safety; especially black hat hacking and their ways of infiltrating systems and the ways they scam regular internet users
+- am interested in how to create simple software; especially the thought of simplicity and how to achieve that
+- want to work on projects that would make life easier for those who feel like it's too much.
 
 <!--
 **sallasukka/sallasukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
