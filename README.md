@@ -2,7 +2,7 @@
 
 I am Salla and in this README you can learn a bit about me and my interests, in addition to my projects I have been working on. Welcome!
 
-At the moment I am studying software development so I am still in the beginning of my future career! I am interested in cyber safety; especially black hat hacking and their ways of infiltrating systems and the ways they scam regular internet users. I'm also interested in how to create simple software; especially the thought of simplicity and how to achieve that. I want to work on projects that would make life easier for those who feel like it's too much.
+At the moment I am studying software development so I am still in the beginning of my future career! I am interested in cyber safety; especially the concept of black hat hacking and their ways of infiltrating systems and the ways they scam regular internet users. I'm also interested in how to create simple software; especially the thought of simplicity and how to achieve that. I want to work on projects that would make life easier for those who feel like it's too much.
 
 Feel free to contact me, I'm always interested in hearing about all kinds of ideas and people and their stories!
 
