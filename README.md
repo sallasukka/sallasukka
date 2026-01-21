@@ -2,7 +2,7 @@
 
 I'm Salla and here you can learn a bit about me, my interests and the projects I have been working on. Welcome!
 
-At the moment I am studying software development so I am still in the beginning of my future career. I’m interested in cybersecurity, particularly hacking, including the technical methods hackers use and the motivations behind online hacks and scams. I'm also interested in how to create simple software; especially the thought of simplicity and how to achieve that. I want to work on projects that would make life easier for those who feel like it's too much.
+At the moment I am studying software development so I am still in the beginning of my future career. I'm interested in how to create simple software; especially the thought of simplicity and how to achieve that. I want to work on projects that would make life easier for those who feel like it's too much. I’m also interested in cybersecurity, particularly hacking, including the technical methods hackers use and the motivations behind online hacks and scams.
 
 Feel free to contact me, I'm always interested in hearing about all kinds of ideas and people and their stories!
 
