@@ -7,8 +7,9 @@ At the moment I am studying software development so I am still in the beginning 
 Projects I'm proud of:
 - Alarmy Clocky that let's you record your own alarm sound
 - SingStar PS2 search app for my birthday party
+- Coat of arms game where you can test your knowledge on Finnish coat of arms
 
-Best regards, Salla
+<3 Salla
 <!--
 **sallasukka/sallasukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
