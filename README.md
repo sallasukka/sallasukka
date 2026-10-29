@@ -4,10 +4,10 @@ I am a software development student. I'm interested in how to create simple soft
 
 **Projects I'm proud of:**
 - Horror recommender that recommends horror movies for you based on your search and uses Anthropic's API to create an answer
-- SingStar PS2 search app for my birthday party (https://singstarsearch.netlify.app/)
+- - A burglar alarm for an embedded systems course (JYU)
+- SingStar PS2 song search app for my birthday party
 - Alarmy Clocky that let's you record your own alarm sound
 - Coat of arms game where you can test your knowledge on Finnish coat of arms
-- A burglar alarm for an embedded systems course (JYU)
 
 On my to-be-developed list:
 - Emo inspired app where you can post vague, emotional lyrics for others to see
@@ -15,17 +15,3 @@ On my to-be-developed list:
 - An extension of the Coat of arms game where you can test your knowledge on Finnish fish, Finnish designers and other Wikipedia-based information
 
 <3 Salla
-<!--
-**sallasukka/sallasukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
